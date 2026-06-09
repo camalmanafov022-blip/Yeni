@@ -1,0 +1,1314 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="2277" tvg-logo="http://epg.it999.ru/img2/2277.png" group-title="Rus kanalları", RU TV (HD)
+https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/qJnvXJQ/show-max.png" group-title="Türk kanalları", SHOW MAX
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax_1080p.m3u8
+
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/512px-TRT_Belgesel_logo_%282019-%29.svg.png" group-title="Türk kanalları", TRT Belgesel HD
+https://tv-trtbelgesel-dai.medya.trt.com.tr/master_3.m3u8
+
+#EXTINF:-1 tvg-id="Kanal12.tr" tvg-logo="https://i.imgur.com/51xCkXG.png" group-title="Türk kanalları", Kanal 12 HD
+https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
+
+#EXTINF:-1 tvg-id="On4TV.tr" tvg-logo="https://i.imgur.com/qGRa1KI.png" group-title="Türk kanalları", On4 TV
+https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="360.tr" tvg-logo="https://i.imgur.com/agn47sQ.png" group-title="Türk kanalları", 360 TV HD
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+
+#EXTINF:-1 tvg-id="APATv.az" tvg-logo="https://i.imgur.com/2CSW4V4.png" group-title="Azərbaycan kanalları", APA TV HD
+https://str.yodacdn.net/apatv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/snBMMeH.png" group-title="Azərbaycan kanalları", Az TV HD
+https://str.yodacdn.net/azertv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="BakuTV.az" tvg-logo="https://i.imgur.com/r4FzxSg.png" group-title="Azərbaycan kanalları", Baku TV HD
+https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/az/0/04/CBC_Sport_TV_loqo.png" group-title="Azərbaycan kanalları", CBC SPORT HD
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cbctv.az/assets/site/img/cbclogo.png" group-title="Azərbaycan kanalları", CBC TV
+https://str.yodacdn.net/cbc/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="RU| DISCOVERY CHANNEL HD" tvg-logo="https://cdn.epg.one/img2/325.png" group-title="Rus kanalları", Discovery (HD)
+http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/30820.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="Türk Belgesel", DMAX HD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/535985
+
+#EXTINF:-1 tvg-id="DreamTurk.tr" tvg-logo="https://i.imgur.com/vJ8VaZi.png" group-title="Türk kanalları", Dream Türk HD
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PowerTurkTV.tr" tvg-logo="https://i.imgur.com/9OPoXQG.png" group-title="Türk kanalları", Power Turk
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://193.70.86.92/chlogo/logo/tv/ff/fashion_tv_fr.png" group-title="Xarici kanallar", Fashion TV
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://epgx.site/p/eurosport1.png" group-title="Xarici kanallar", Eurosport 1 (HD)
+http://45.159.74.14:80/Eurosport/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://193.70.86.92/chlogo/logo/tv/ff/fx_us.png" group-title="Rus kanalları", Fx
+http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/159765.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Xarici kanallar", Kanal D Drama
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kanal23.tr" tvg-logo="https://i.imgur.com/3br8RCq.png" group-title="Türk kanalları", Kanal 23
+https://waw2.artiyerelmedya.net/kanal23/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="Rus kanalları", Nat Geo Wild (rus)
+https://node2-az-baku-delta.streamy.group/stream/gv9wxr5z26z964s6nf95ab4bucyvbd7cpfaqvwetaxkmd92gieqda6ykvsvd49ij7vt76rx273s2j4fqzgkup63raw6gw4c68mkjdxm9u6ny9irubpijbbseqcy4veiriw5i6gpmqqgdgcq4dy3h97u9d6x8skn86ifuy3p6g7dn3u7p===.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/HV0x9JZ/fashion-one.png" group-title="Türk kanalları", NR1 FASHION ONE
+http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PowerTurkAkustik.tr" tvg-logo="https://i.imgur.com/driabBO.png" group-title="Türk kanalları", Power Türk Akustik
+https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://i.imgur.com/9O3DHRB.png" group-title="Türk Əsas kanallar", Star TV HD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/192066
+
+#EXTINF:-1 tvg-id="start-world" tvg-logo="http://epg.it999.ru/img2/6240.png" group-title="Xarici kanallar", Start World (HD)
+https://bkm.beetv.kz/btv/live/hls/000007818.m3u8
+
+#EXTINF:-1 tvg-id="DHA.tr" tvg-logo="https://i.imgur.com/VZhag2x.png" group-title="Türk kanalları", DHA HD
+https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EuroD.tr" tvg-logo="https://i.imgur.com/x9kHsXo.png" group-title="Türk kanalları", Euro D HD
+https://viamotionhsi.netplus.ch/live/eds/eurod/browser-HLS8/eurod.m3u8
+
+#EXTINF:-1 tvg-id="EWTNEurope.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="Xarici kanallar", EWTN Europe HD
+https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FortunaTV.tr" tvg-logo="https://i.imgur.com/ZbUSlOC.png" group-title="Türk kanalları", Fortuna TV HD
+https://fortunacdn.socialsmart.tv/ftvturk/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Türk kanalları", Fashion TV HD
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="fashion-tv" tvg-logo="https://epgx.site/p/fashion-tv.png" group-title="Türk kanalları", Fashion TV (HD)
+http://91.247.68.229:8000/play/Fashion/index.m3u8
+
+#EXTINF:-1 tvg-id="24TV.tr" tvg-logo="https://i.imgur.com/8FO41es.png" group-title="Türk kanalları", 24 TV HD
+https://tv.ensonhaber.com/tv24/tv24.m3u8
+
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="Türk kanalları", Kanal D HD
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+
+#EXTINF:-1 tvg-id="KralPopTV.tr" tvg-logo="https://i.imgur.com/ch365lh.png" group-title="Türk kanalları", KRAL Pop TV
+https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MedeniyyetTV.az" tvg-logo="https://i.imgur.com/PlvaDIa.png" group-title="Azərbaycan kanalları", Medeniyyet TV
+https://str.yodacdn.net/medeniyyettele/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="KepezTV.az" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/3/3e/K%C9%99p%C9%99z_TV_%282019-h.h.%29.png/512px-K%C9%99p%C9%99z_TV_%282019-h.h.%29.png" group-title="Azərbaycan kanalları", Kəpəz TV
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/512px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png" group-title="Türk kanalları", TRT Haber HD
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://admin.optikom.uz/uploads/images/tv/kinopremera.png" group-title="Rus kanalları", КП HD
+http://45.159.74.13:80/Kinopremera/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/o9kLpAL.png" group-title="Rus kanalları", СТС Kids
+http://195.26.83.96:7006/play/a00z/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/512px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png" group-title="Rus kanalları", Россия 1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="rossia1" tvg-logo="https://epgx.site/p/rossia1.png" group-title="Rus kanalları", Россия 1 (HD)
+https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
+
+#EXTINF:-1 tvg-id="rbk" tvg-logo="http://epg.it999.ru/img2/743.png" group-title="Rus kanalları", РБК (HD)
+http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+
+#EXTINF:-1 tvg-id="mir-24" tvg-logo="https://iptvx.one/picons/perec.png" group-title="Rus kanalları", Перец
+https://s.tivix.co/WTuaIM7jbjZiEZf7soKY8w/526/1763592670/index.m3u8
+
+#EXTINF:-1 tvg-id="mir-24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%D0%9C%D0%B8%D1%80_%D0%A2%D0%92_logo.svg/1200px-%D0%9C%D0%B8%D1%80_%D0%A2%D0%92_logo.svg.png" group-title="Rus kanalları", Мир 24 (HD)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+#EXTINF:-1 tvg-id="volgograd-24" tvg-logo="https://i.imgur.com/gFMnaU5.png" group-title="Rus kanalları", Волгоград 24 (HD)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="domashny" tvg-logo="http://epg.it999.ru/img2/304.png" group-title="Rus kanalları", Домашний
+http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/159762.m3u8
+
+#EXTINF:-1 tvg-id="CekmekoyTV.tr" tvg-logo="https://i.imgur.com/sjAGFWu.png" group-title="Türk kanalları", Cekmeköy TV HD
+https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cine5.tr" tvg-logo="https://i.imgur.com/AmcOAIY.png" group-title="Türk kanalları", Cine5 HD
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="animal-planet-eu" tvg-logo="https://cdn.epg.one/img2/990.png" group-title="Rus kanalları", ANİMAL PLANET (HD)
+http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/17264.m3u8
+
+#EXTINF:-1 tvg-id="ArasTV.tr" tvg-logo="https://i.imgur.com/JsDCyWG.png" group-title="Türk kanalları", ARAS TV
+http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ARB24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/ARB_24_logo1.png" group-title="Azərbaycan kanalları", ARB 24
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Azad_Azerbaycan_TV_logosu.png/474px-Azad_Azerbaycan_TV_logosu.png" group-title="Azərbaycan kanalları", Atv Azərbaycan HD
+https://str.yodacdn.net/atv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Azərbaycan kanalları", AZSTAR TV
+http://live.azstartv.com/azstar/azstar_240p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/az/a/a3/G%C3%BCnAz_TV.png" group-title="Azərbaycan kanalları", Günaz TV
+https://2meet.az/live/livestream.flv6395f13455d0eddddc72eb33-1664271536-1664260736
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdtvlertv.net/media/images/tvlogo/kanals-az-tv-canlitvkanal-2jb9.png" group-title="Azərbaycan kanalları", Kanal S
+http://149.255.152.199/kanals.m3u8?bandwidth=6096&e=1746629829&playlistlength=5&shift=0&sid=coder_57&token=e6ada73941cf8308efdf2b8e51e35ecb&user=37076
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/MTV_Az%C9%99rbaycan_%282022%29.png/1280px-MTV_Az%C9%99rbaycan_%282022%29.png" group-title="Azərbaycan kanalları", Muz TV
+http://88.99.66.6:8080/str.yodacdn.net/mtvaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ntv.az/assets/images/logo.png" group-title="Azərbaycan kanalları", Naxçıvan TV
+http://88.99.66.6:8080/str.yodacdn.net/ntv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-16642607366-1664260736
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/az/b/bb/Real_TV_loqosu.png" group-title="Azərbaycan kanalları", Real TV
+https://str.yodacdn.net/real/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Space_TV_loqosu_%282021-2023%29.png/320px-Space_TV_loqosu_%282021-2023%29.png" group-title="Azərbaycan kanalları", SPACE TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Azərbaycan kanalları", TMB Azerbaycan
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://flagcdn.com/w320/az.png" group-title="Azərbaycan kanalları", Xazar TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Azərbaycan kanalları", Ictimai TV HD
+https://live.itv.az/itv.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.giscorps.org/wp-content/uploads/2021/02/national-geographic-logo-1024x768.png?6bfec1&6bfec1" group-title="Türk kanalları", National Geographic TR HD
+http://185.32.44.154/NationalGeographicHD/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Rus kanalları", ID Xtra
+https://s.tivix.co/i8Cu_xk8GmsdTqf8F2qgPg/570/1763591084/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Türk kanalları", Akit TV HD TR
+https://akittv-live.ercdn.net/akittv/akittv.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Türk kanalları", ATV Avrupa TR
+http://109.205.166.68:80/server126/hls/atv_avrp.m3u8?st=zlMYxmFR95XcleNSH9WiWw&e=1676581240
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Türk kanalları", BENGÜTÜRK TV HD
+https://tv.ensonhaber.com/benguturk/benguturk.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Türk kanalları", FORTUNA TÜRK TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Türk kanalları", Haber Turk FHD TR
+https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Türk kanalları", Kanal 7 Avrupa TR
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Türk kanalları", Kanal 7 Türkiye
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Türk kanalları", Show Turk TR
+https://ciner-live.ercdn.net/showturk/showturk_1080p.m3u8?e=1765571023&st=MJxCPl6zHNJCJd-oeSzEFw&tv=1
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/show.png" group-title="Türk Əsas kanallar", Show TV HD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6273
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Türk kanalları", Star TV
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Türk kanalları", TARIM TV
+https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-360p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Türk kanalları", Teve 2 HD
+https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo5H8l1RSlqRn5oe3Qj-5d_5up3YwhDNZxw&s" group-title="Türk kanalları", TLC TR
+https://node1-az-baku-delta.streamy.group/stream/akch3gd9b79fu8k6984jxhj88ck56d98w84dnmx9akjfbwbz85s4gqg4shvgjig3mgw8vbdtijwgy6tzi9at5yusikj7ps8sfuct2rxhxwi68aadm3mvixn72whq8tpa8y63guq5jv9b3shsny655v7pwyuh5ktdgkunjbavmjip8===.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Türk kanalları", TRT HABER HD
+https://tv-trthaber.medya.trt.com.tr/master_360.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Türk kanalları", TRT TURK EUROPA
+https://tv-trtturk.medya.trt.com.tr/master_360.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.campaigntr.com/wp-content/uploads/2014/09/tv8-logo.png" group-title="Türk kanalları", TV8 HD TR (rez)
+https://tv8.daioncdn.net/tv8/tv8_480p.m3u8?&sid=6i1zihqoe4on&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Xarici kanallar", Amedia Premium HD
+http://stream01.vnet.am/AmediaPremium/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Rus kanalları", VIP Premiere
+http://135.181.115.81:8000/play/a01a/index.m3u8?token=livetv
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Xarici kanallar", Sky News
+http://178.219.128.68:64889/SKYNEWS
+
+#EXTINF:-1 tvg-id="Izvestia.ru" tvg-logo="https://i.imgur.com/r5HzA6J.png" group-title="Rus kanalları", Известия 
+http://65.21.85.175:8000/play/a01h/index.m3u8?token=livetv
+
+#EXTINF:-1 tvg-id="tv1000" tvg-logo="https://lo1.in/rus/tv1ac.png" group-title="Rus kanalları", TV 1000 ACTION HD
+http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/17280.m3u8
+
+#EXTINF:-1 tvg-id="trashtv" tvg-logo="https://iptvx.one/picons/trashtv.png" group-title="Rus kanalları", Trash (HD)
+http://185.23.80.28:8080/TRASH/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="evrokino" tvg-logo="https://iptvx.one/picons/eurokino.png" group-title="Rus kanalları", Еврокино (EDTV 576p)
+http://86.57.198.251:8181/play/1022/index.m3u8
+
+#EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://iptvx.one/picons/kino-tv.png" group-title="Rus kanalları", Кино ТВ (HD)
+http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="kinosat" tvg-logo="https://iptvx.one/picons/kinosat.png" group-title="Rus kanalları", Киноман (nHD)
+http://88.218.242.237:8000/play/a002
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/L5qn3w5s/Cartoon-Network-2010-logo-svg.png" group-title="Türk kanalları", CARTOON NETWORK HD
+https://tv1.arectv30.sbs/live/cartoonnetwork.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Türk kanalları", TRT Cocuk HD TR
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="PowerTurkTaptaze.tr" tvg-logo="https://i.imgur.com/a5nW3HU.png" group-title="Türk kanalları", Power Türk Taptaze
+https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PowerTurkSlow.tr" tvg-logo="https://i.imgur.com/tQSoQXW.png" group-title="Türk kanalları", Power Türk Slow
+https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MeltemTV.tr" tvg-logo="https://i.imgur.com/C3m6w5S.png" group-title="Türk kanalları", Meltem TV
+https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://epgx.site/p/nat-geo-wild.png" group-title="Rus kanalları", Nat Geo Wild 
+http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="MalatyaVuslatTV.tr" tvg-logo="https://i.imgur.com/FUaWv4s.png" group-title="Türk kanalları", Malatya Vuslat TV
+https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LifeTV.tr" tvg-logo="https://i.imgur.com/lWeJxm0.png" group-title="Türk kanalları", Life TV
+https://waw2.artiyerelmedya.net/lifetv/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.epg.one/img2/389.png" group-title="Rus kanalları", NATİONAL GEOGRAPHİC HD
+https://node1-az-baku-delta.streamy.group/stream/sqxv8apr75gvjgk7d43wbbtrmwzh7xgkz8v7i6gcdzrrj9xr6zchcst6vxxw3duj7xagm5bgfe8ftsifjeqs8buuc4ccmizdqb9ewx6jwvytckwz2pwafhuxxgtgb3s4ztciscuuscpmgyxz9a27np56n46ukd55hnq9acd6pkqry===.m3u8
+
+#EXTINF:-1 tvg-id="Number1Ask.tr" tvg-logo="https://i.imgur.com/slwbux7.png" group-title="Türk kanalları", Number 1 Ask
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Number1Damar.tr" tvg-logo="https://i.imgur.com/rYtbAGZ.png" group-title="Türk kanalları", Number 1 Damar
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/sybLTBG/nr1.png" group-title="Türk kanalları", Number 1 TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="On6.tr" tvg-logo="https://i.imgur.com/k7rS2gC.png" group-title="Türk kanalları", On 6
+https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PowerDance.tr" tvg-logo="https://i.imgur.com/QpPteBO.png" group-title="Türk kanalları", Power Dance
+https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/HYg75w2.png" group-title="Xarici kanallar", Romanza+ Africa
+https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="https://i.imgur.com/tGTVcVe.jpg" group-title="Türk kanalları", Sports TV
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+
+#EXTINF:-1 tvg-id="TBMMTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/512px-TBMM_TV_logo.svg.png" group-title="Türk kanalları", TBMM TV
+https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
+
+#EXTINF:-1 tvg-id="TlnovelasEuropa.mx" tvg-logo="https://i.imgur.com/8AKW7Uu.png" group-title="Xarici kanallar", Tlnovelas Europa
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" group-title="Türk kanalları", TEVE2
+https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tivi6.tr" tvg-logo="https://i.imgur.com/Mbi0jbz.png" group-title="Türk kanalları", Tivi 6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TRT_Avaz_logo.svg/512px-TRT_Avaz_logo.svg.png" group-title="Türk kanalları", TRT Avaz
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTKurdi.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TRT_Kurd%C3%AE_logo.svg/512px-TRT_Kurd%C3%AE_logo.svg.png" group-title="Türk kanalları", TRT Kurdî
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-logo="https://i.imgur.com/JgUzRH8.png" group-title="Türk kanalları", TRT Müzik HD
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/512px-TRT_T%C3%BCrk_logo.svg.png" group-title="Türk kanalları", TRT Türk HD
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TV1.tr" tvg-logo="https://i.imgur.com/8CtrYVb.png" group-title="Türk kanalları", TV 1
+https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv-brics" tvg-logo="https://epgx.site/p/tv-brics.png" group-title="Xarici kanallar", TV BRICS (HD)
+http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
+
+#EXTINF:-1 tvg-id="TV4.tr" tvg-logo="https://i.imgur.com/UpsQsbd.png" group-title="Türk kanalları", TV4 HD
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+
+#EXTINF:-1 tvg-id="TurkHaber.tr" tvg-logo="https://i.imgur.com/2AcRKdL.png" group-title="Türk kanalları", TürkHaber
+https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WomanTV.tr" tvg-logo="https://i.imgur.com/f2zGoV3.png" group-title="Türk kanalları", Woman TV HD
+https://embedlp.becdn.net/womantv.m3u8
+
+#EXTINF:-1 tvg-id="UUTV1.tr" tvg-logo="https://i.imgur.com/H5kOQz5.png" group-title="Türk kanalları", ÜÜ TV 1 HD
+https://uskudarunv.mediatriple.net/uskudarunv/uskudar1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UUTV2.tr" tvg-logo="https://i.imgur.com/FjFjdY5.png" group-title="Türk kanalları", ÜÜ TV Üsküdar Üniversitesi TV HD
+https://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IBBTV.tr" tvg-logo="https://i.imgur.com/aXxAz84.png" group-title="Türk kanalları", IBB TV HD
+http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Rus kanalları", Investigation Discovery
+http://stream01.vnet.am/InvestigationDiscovery/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Xarici kanallar", ITV HD
+http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="domashny-int" tvg-logo="https://epgx.site/p/domashny-int.png" group-title="Rus kanalları", Домашний International (EDTV 576p)
+http://45.159.74.13:80/Domashniy/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="zvezda-plus" tvg-logo="https://epgx.site/p/zvezda-plus.png" group-title="Rus kanalları", Звезда + (HD)
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
+
+#EXTINF:-1 tvg-id="zvezda" tvg-logo="https://epgx.site/p/zvezda.png" group-title="Rus kanalları", Звезда (HD)
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+
+#EXTINF:-1 tvg-id="izvestia" tvg-logo="https://epgx.site/p/izvestia.png" group-title="Rus kanalları", Известия (HD)
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Rus kanalları", Индия
+http://stream01.vnet.am/ZeeTV/mono.m3u8
+
+#EXTINF:-1 tvg-id="match-football1" tvg-logo="http://epg.it999.ru/img2/2044.png" group-title="Rus kanalları", Матч! тв
+https://edge02r.mediavitrina.ru/hls-livef1/matchtv/tracks-v3a1/mono.m3u8?token=v2.jIrTtj-nJFbW2UM4TYw-wT8-M2gyFZZL8NohthHIAus.tnqzaTDAzcij9Psgo52VSJ6DDy8w8mkUWWaIvRgV9jE.1746644340.bed5fd9c08decc751b4d75e2e27cf563
+
+#EXTINF:-1 tvg-id="match-planeta" tvg-logo="https://epgx.site/p/match-planeta.png" group-title="Rus kanalları", Матч! Планета (WSVGA)
+https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
+
+#EXTINF:-1 tvg-id="match-arena" tvg-logo="https://epgx.site/p/match-arena.png" group-title="Rus kanalları", Матч! Арена (EDTV 576p)
+http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
+
+#EXTINF:-1 tvg-id="mir" tvg-logo="https://epgx.site/p/mir.png" group-title="Rus kanalları", Мир (HD)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/pUcV46F.png" group-title="Rus kanalları", НТВ Мир
+http://stream02.vnet.am/HTB/mono.m3u8
+
+#EXTINF:-1 tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Rus kanalları", NTV HD (rus)
+https://s.tivix.co/ySCXLjNhFr8l2OAKUkH_KA/537/1757696272/index.m3u8
+
+#EXTINF:-1 tvg-id="ntv-style" tvg-logo="http://epg.it999.ru/img2/1755.png" group-title="Rus kanalları", НТВ Стиль (WSVGA)
+http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="нтв" tvg-logo="https://i.imgur.com/33XGMch.png" group-title="Rus kanalları", Прима HD
+https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="ramenskoe-tv" tvg-logo="http://epg.it999.ru/img2/6763.png" group-title="Rus kanalları", Раменское ТВ (HD ready)
+https://e10-ll.facecast.net/rtv/0.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Rus kanalları", СТС HD
+https://s.domatv.net/XcqnCzv7yR5TRD1DbGwf4Q/591/1763590318/index.m3u8
+
+#EXTINF:-1 tvg-id="super" tvg-logo="https://epgx.site/p/subbota.png" group-title="Rus kanalları", Суббота (HD)
+https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Rus kanalları", ТНТ HD
+http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/159835.m3u8
+
+#EXTINF:-1 tvg-id="tnt-music" tvg-logo="https://iptvx.one/picons/tnt-music.png" group-title="Rus kanalları", ТНТ Music (HD)
+http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Rus kanalları", ТНТ4 HD
+https://s.domatv.net/rHO1SM84CNglFaCpScjFKw/105/1763590094/index.m3u8
+
+#EXTINF:-1 tvg-id="xit-fm" tvg-logo="https://epgx.site/p/xit-fm.png" group-title="Radio rus", Хит FM
+http://hitfm.hostingradio.ru/hitfm128.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Rus kanalları", 360 НОВОСТИ
+https://e10-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Türk kanalları", A Haber HD
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1766190050/ei/gpdFabTuNoLQp-oPiKHPsAo/ip/86.107.43.88/id/nmY9i63t6qo.1/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/rqh/1/hls_chunk_host/rr1---sn-4g5edn6k.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AYUSA3A_73mODun7Lm8lB_JNUbWgFdYLgYP30SMrNtiepvvpiP6E-9wzZRk16bvVu7gKeIOQNnOISP3o/spc/wH4Qq7W6cU16JjeftwENxPxUkpnnVzaweg9Ry8kF_--1GJHh4Ughz7bL7YPtCi27Lrg/vprv/1/ns/AJC1lVpir3jS-cYOJArackER/playlist_type/DVR/cps/261/met/1766169016,/mh/E3/mm/44/mn/sn-4g5edn6k/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565115,51565682,51580968/n/5s_E6seebLFJhBwuf2/mt/1766168670/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,ns,playlist_type/sig/AJfQdSswRQIhAOj9yarCLg-DNLIJWV7B6hhnWzE9R07W_g3m0tLrNW1xAiBHphV6Nk70PWWNoIVQdvcmt-5wo2enrEVjqFRpvuLXDQ%3D%3D/lsparams/hls_chunk_host,cps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgBKNTJwNEwBpIkLbIx4xCGr0-p9OwcgwY30tIWxJCozsCIQCPjZUPgDO88OsH5YFtafnZyyyR_6IYYw8dD_QFoY1wlA%3D%3D/playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/xSjB51j/aspor.png" group-title="Türk kanalları", A SPOR HD
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.agrotvazerbaijan.az/uploads/images/logo-7szXRi4-1.png" group-title="Azərbaycan kanalları", AGRO TV Azərbaycan
+https://yayin30.haber100.com/live/agrotv2/chunklist_w1691893424.m3u8
+
+#EXTINF:-1 tvg-id="bollywood-hd" tvg-logo="https://iptvx.one/picons/bollywood-hd.png" group-title="Rus kanalları", BollywooD (HD ready)
+http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/782138.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Türk kanalları", BLOOMBERG HT TR
+https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
+
+#EXTINF:-1 tvg-id="foxlife" tvg-logo="https://iptvx.one/picons/foxlife.png" group-title="Rus kanalları", FX Life (EDTV 576p)
+http://dmi3y-tv.ru/hls/CH_FOXLIFE.m3u8
+
+#EXTINF:-1 tvg-id="hollywood-hd" tvg-logo="https://iptvx.one/picons/hollywood-hd.png" group-title="Rus kanalları", HollywooD (HD)
+https://s.tivix.co/fcShMIC-8zsRI4eaxPqThA/586/1757684325/index.m3u8
+
+#EXTINF:-1 tvg-id="Haber global" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Haber_Global_logo.svg/1280px-Haber_Global_logo.svg.png" group-title="Türk kanalları", Haber global
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+
+#EXTINF:-1 tvg-id="Arb" tvg-logo="http://assets.tvcdn.net/7ead0f6e-66c4-4813-8f0c-730c3ede8095.png" group-title="Azərbaycan kanalları", Arb
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
+
+#EXTINF:-1 tvg-id="Arb gunes" tvg-logo="http://assets.tvcdn.net/eab1873b-fe30-41c6-b755-ba6a6709f4cd.png" group-title="Azərbaycan kanalları", Arb gunes
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
+
+#EXTINF:-1 tvg-id="1 kanal rus" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="Rus kanalları",1 KANAL (Rus)
+https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
+
+#EXTINF:-1 tvg-id="SuperTurk Max" tvg-logo="http://assets.tvcdn.net/2a7833de-376e-4900-a8eb-523162f00502.png" group-title="Türk kanalları",Super Türk Max
+http://stream.tvcdn.net/diger-eglence/superturk-max.m3u8
+
+#EXTINF:-1 tvg-id="Beyaz TV" tvg-logo="http://assets.tvcdn.net/60d7aaf4-817b-46be-bbab-68f8b30de8fb.png" group-title="Türk kanalları",Beyaz Tv
+https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3
+
+#EXTINF:-1 tvg-id="Cartoon Network (rus)" tvg-logo="https://iptvx.one/picons/cartoon-network.png" group-title="Rus kanalları",CARTOON NETWORK HD (rus)
+https://node2-az-baku-delta.streamy.group/stream/6rdqazmdir7cp54ijnje87yd3mebesncijiqmt9b6hnqbtqa8cbvujfrnhnqqybmfwznkzczm9zkrj5vvwpmm738x5qhqhar3gwf85abu8vbas5krvw5zh677z46f8bcbks5q4b2ma4a9cf6p8yqdm73qeajrfckhzsv4sg494s3nefsgxfwmy75.m3u8
+
+#EXTINF:-1 tvg-id="Пятница! " tvg-logo="http://epg.one/img2/1003.png" group-title="Rus kanalları",Пятница 
+https://vod.tuva.ru/friday/index.m3u8
+
+#EXTINF:-1 tvg-id="Че! " tvg-logo="https://iptvx.one/picons/che.png" group-title="Rus kanalları",Че!
+http://178.212.71.253:8002/play/a00s/index.m3u8
+
+#EXTINF:-1 tvg-id="A2 " tvg-logo="https://iaatv.tmgrup.com.tr/65837c/820/547/0/0/600/400?u=https://iatv.tmgrup.com.tr/2022/05/13/unutulmaz-diziler-a2de-a2-full-hd-izle-a2-canli-yayin-kesintisiz-izle-a2-yayin-akisi-ile-en-sevdigin-dizilere-1652464889414.jpg" group-title="Türk kanalları",A2
+https://www.canli.co/hls/a2/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Че! "tvg-logo="https://images.seeklogo.com/logo-png/1/2/atv-logo-png_seeklogo-13363.png" group-title="Türk kanalları",ATV Türkiye
+http://89.187.191.41/ATV-HD-TR/video.m3u8
+
+#EXTINF:-1 tvg-id="Че! "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1280px-NOW_TV_%28Turkey%29_wordmark-red.svg.png" group-title="Türk kanalları",NOW TV
+http://116.202.238.88/FOXTV_TR/index.m3u8
+
+#EXTINF:-1 tvg-id="Че! "tvg-logo="https://logowik.com/content/uploads/images/940_trt1_logo.jpg" group-title="Türk kanalları",TRT1 HD
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="Че! "tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/fd93a4107973147.5fb3ade23e9e1.gif" group-title="Türk kanalları",TRT2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="NTV "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFMGb3CEsJzvSDD9oUaT_pI0GJCNsoLJibSw&usqp=CAU" group-title="Türk kanalları",NTV türkiye
+https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
+
+#EXTINF:-1 tvg-id="Че! "tvg-logo="https://ritsatv.ru/files/poster/medium/901283.webp" group-title="Rus kanalları",Кинолента 24
+https://salam-mskm9-48.rutube.ru/dive/river-5-520.rutube.ru/REcbsvQFHholKNZCWBO7Hg/stream/genetta-315.m9.rutube.ru/YwcZy0-7QR6xqhFCQczKtw/1746642061/23c568b69e0eada33560850484223739/1080p_stream.m3u8
+
+#EXTINF:-1 tvg-id="da vinci "tvg-logo="https://iptvx.one/picons/da-vinci.png" group-title="Rus kanalları",DA VİNCİ
+https://node1-az-baku-delta.streamy.group/stream/d63s83fvryppkwrzq2vkvgmw37zq35pep569tmqgp2qzjaxi97gensuykvcxbnje8q3yvx3762tp9bh92sb2akppzgj745ej3dxz5aj8e54sxpu8ejcs9fgfy28mg4nrj3xugdkcm4rgmbwt28amyrj558cp2z9pmpnqzd2cmmsjunpgzfehqb8h.m3u8
+
+#EXTINF:-1 tvg-id="a spor "tvg-logo="https://iaaspr.tmgrup.com.tr/90ba7c/806/378/0/69/1050/562?u=http://i.aspor.com.tr/2016/08/09/1470751046185.jpg" group-title="Türk kanalları",A spor
+https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
+
+#EXTINF:-1 tvg-id="TMB "tvg-logo="https://upload.wikimedia.org/wikipedia/az/c/c2/TMB_TV_loqosu.png" group-title="Azərbaycan kanalları",TMB TV
+http://149.255.152.199/tmbtv.m3u8?bandwidth=2096&e=1746611265&playlistlength=5&shift=0&sid=coder_52&token=88c6c241f842ba8c81e7b4b21b973777&user=37076&bands=796.2096
+
+#EXTINF:-1 tvg-id="idman "tvg-logo="https://admin.aztv.az/userfiles/files/4AA0BSfjB7Kev11a29qo.png" group-title="Azərbaycan kanalları",İDMAN TV
+https://str.yodacdn.net/idmantele/mono.m3u8
+
+#EXTINF:-1 tvg-id="твц "tvg-logo="https://iptvx.one/picons/tvcentr.png" group-title="Rus kanalları",твц
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ren "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/1770px-REN_TV_logo_2017.svg.png" group-title="Rus kanalları",Ren Tv 
+http://t8afqahz.russtv.net/iptv/KLEYQYC7TPZ8G7W822WQCXNQ/128/index.m3u8
+
+#EXTINF:-1 tvg-id="стс "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/8-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A1%D0%A2%D0%A1.svg/2560px-8-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A1%D0%A2%D0%A1.svg.png" group-title="Rus kanalları",СТС
+https://streaming101.goodstream.cyou/live/296-req_offset_28000000-req_window_0-2k_v5.m3u8
+
+#EXTINF:-1 tvg-id="тв 3"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/%D0%A2V3_logo_2023.svg" group-title="Rus kanalları", тв 3
+http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/360634.m3u8
+
+#EXTINF:-1 tvg-id="euro star"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/37/Euro_Star_logosu.png" group-title="Türk kanalları", Euro star
+https://canlitvulusal.xyz/live/eurostar/index.m3u8
+
+#EXTINF:-1 tvg-id="ntv serial"tvg-logo="https://iptvx.one/picons/ntv-serial.png" group-title="Rus kanalları", NTV serial (rus)
+http://cdn2.ntv.ru/th_serial/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ю"tvg-logo="https://iptvx.one/picons/ntv-serial.png" group-title="Rus kanalları", ю
+http://31.148.48.15/U/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-1 tvg-id="history"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" group-title="Rus kanalları", History HD
+https://s.tivix.co/HZSPiZmqxSQ3oda3bl72Tg/114/1757697829/index.m3u8
+
+#EXTINF:-1 tvg-id="history"tvg-logo="https://ewsat.com/img/SINEMA_AKSIYON.png" group-title="Türk kanalları", Sinema aksiyon
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=89839&extension=ts
+
+#EXTINF:-1 tvg-id="history"tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinemaaile.png" group-title="Türk kanalları", Sinema aile
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=89838&extension=ts
+
+#EXTINF:-1 tvg-id="history"tvg-logo="https://iptvx.one/picons/rbk.png" group-title="Rus kanalları", РБК
+http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+
+#EXTINF:-1 tvg-id="7 tv"tvg-logo="https://iptvx.one/picons/7tv.png" group-title="Rus kanalları", 7 TV
+http://v4.proofix.ru:80/7tv-live/index.m3u8
+
+#EXTINF:-1 tvg-id="Bein sports"tvg-logo="https://iptvx.one/picons/bein-sport-us.png" group-title="Xarici kanallar", BEIN SPORTS HD
+http://fl3.moveonjoy.com/BEIN_SPORTS/index.m3u8
+
+#EXTINF:-1 tvg-id="Cnbc"tvg-logo="https://epg.iptvx.one/picons/cnbc-us.png" group-title="Xarici kanallar", CNBC HD
+http://fl3.moveonjoy.com/CNBC/index.m3u8
+
+#EXTINF:-1 tvg-id="Dunya tv"tvg-logo="https://upload.wikimedia.org/wikipedia/az/5/5d/D%C3%BCnya_TV_%282019-h.h.%29.png" group-title="Azərbaycan kanalları", Dünya Tv
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
+
+#EXTINF:-1 tvg-id="TLC HD"tvg-logo="https://cdn.epg.one/img2/425.png" group-title="Xarici kanallar", TLC HD
+http://45.159.74.22/TLC/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Fx HD"tvg-logo="https://cdn.epg.one/img2/1031.png" group-title="Rus kanalları", Fx HD
+http://45.159.74.22/Fox/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="camal"tvg-logo="https://cdn.epg.one/img2/103.png" group-title="Azərbaycan kanalları", Camal Tv
+https://github.com/Camalmanafov/Brooo/raw/2f0ab9e2c402ec02e43032e5b7f430a292f717bd/InShot_20250816_154148469.mp4
+
+#EXTINF:-1 tvg-id="camal"tvg-logo="https://www.tvrus.eu/wp-content/uploads/2020/08/tv_rus_channel_logos.png" group-title="Azərbaycan kanalları", Tv rus+
+https://hls.tvrus.t62a.com/1755385420/yiDmh34iF_swCvWYrxs-gA/bemtv/stream336/stream0.m3u8
+
+#EXTINF:-1 tvg-id="camal"tvg-logo="https://www.tvrus.eu/wp-content/uploads/2020/08/tv_rus_channel_logos.png" group-title="Test kanalları", National Geographic test
+https://s.tivix.co/MRimF2FgpPSZe16KnKYABw/601/1755390538/index.m3u8
+
+#EXTINF:-1 tvg-id="yaban"tvg-logo="https://e7.pngegg.com/pngimages/109/968/png-clipart-logo-yaban-tv-emblem-television-tivibu-trt-hd-television-emblem.png" group-title="Türk kanalları", YABAN TV HD
+https://yayin1.canlitv.fun/canlitv/yabantv.stream/chunklist_w733412033.m3u8
+
+#EXTINF:-1 tvg-id="cnn"tvg-logo="https://iptvx.one/picons/cnn.png" group-title="Xarici kanallar", CNN İNTERNATİONAL
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="cnn"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2%2B2_logo_2017.svg/1200px-2%2B2_logo_2017.svg.png" group-title="Rus kanalları", 2+2
+https://s.domatv.net/e6hwlwxoG5vhhZ9v2KcxTQ/238/1757635060/index.m3u8
+
+#EXTINF:-1 tvg-id="ren"tvg-logo="https://papik.pro/grafic/uploads/posts/2023-04/thumbs/1681502584_papik-pro-p-ren-tv-logotip-vektor-1.png" group-title="Rus kanalları", REN TV HD
+http://178.217.72.66:8080/REN_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="dw"tvg-logo="https://epg.iptvx.one/picons/deutsche-welle-ru.png" group-title="Rus kanalları", Deutsche Welle Russia
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
+
+#EXTINF:-1 tvg-id="arb24hd"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/ARB_24_logo1.png" group-title="Azərbaycan kanalları", ARB 24 HD
+http://85.132.81.184:8080/arb/live/index.m3u8
+
+#EXTINF:-1 tvg-id="movie"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_of_MovieSmart_T%C3%BCrk.png" group-title="Türk kanalları", MOVİE SMART TÜRK
+https://tv1.arectv30.sbs/live/mvturk.m3u8
+
+#EXTINF:-1 tvg-id="birtv"tvg-logo="https://i.ibb.co/dDdPMWq/birtv.png" group-title="Türk kanalları", BIR TV
+https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="birtv"tvg-logo="https://i.ibb.co/PTNvZkD/bloomberg-ht.png" group-title="Türk kanalları", BLOOMBERG HT
+https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+
+#EXTINF:-1 tvg-id="cine1"tvg-logo="https://i.ibb.co/zhxTBMR/cine1.png" group-title="Türk kanalları", CİNE 1
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cnb-e"tvg-logo="https://i.ibb.co/5FjLh2Z/cnbc-e.png" group-title="Türk kanalları", CNBC-E
+https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
+
+#EXTINF:-1 tvg-id="çay"tvg-logo="https://www.caytvhaber.com/d/news/48994.jpg" group-title="Türk kanalları", ÇAY TV
+https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DİMTV"tvg-logo="https://dimtv.tv/wp-content/uploads/2020/09/dimlogobig.png" group-title="Türk kanalları", DİM TV
+https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GZT TV"tvg-logo="https://albayrakmedya.com/wp-content/uploads/2023/02/gzt-1.png" group-title="Türk kanalları", GZT TV
+https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cgtn"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Türk kanalları", CGTN Documentary
+https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="musicazhit"tvg-logo="http://team.ga/images/chIcons/2556.png" group-title="Azərbaycan kanalları", Music AZ HIT
+https://cdn4.yayin.com.tr/musicazhit/video.m3u8
+
+#EXTINF:-1 tvg-id="sts love"tvg-logo="https://images.seeklogo.com/logo-png/35/2/ctc-love-logo-png_seeklogo-356323.png" group-title="Rus kanalları", STS Love
+http://194.143.148.28:8080/CTC_LOVE/index.m3u8
+
+#EXTINF:-1 tvg-id="htspor"tvg-logo="https://i.ibb.co/F0Tsz1v/htsportr.png" group-title="Türk kanalları", HT SPOR
+https://ciner-live.ercdn.net/htspor/htspor.m3u8
+
+#EXTINF:-1 tvg-id="htspor"tvg-logo="https://i.postimg.cc/28X3LrFq/kiss-cut-stickers-5-5x5-5-default-61560d802b93c.png" group-title="Azərbaycan kanalları", RETRO TV
+https://a8.radyotelekom.com.tr:3706/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="Bein"tvg-logo="https://i.postimg.cc/28X3LrFq/kiss-cut-stickers-5-5x5-5-default-61560d802b93c.png" group-title="Türk kanalları", BEİN SPORTS 1
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/126272
+
+#EXTINF:-1 tvg-id="ktv music"tvg-logo="https://i.postimg.cc/28X3LrFq/kiss-cut-stickers-5-5x5-5-default-61560d802b93c.png" group-title="Azərbaycan kanalları", KTV MUSİC
+https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
+
+#EXTINF:-1 tvg-id="BBC NEWS"tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png" group-title="Xarici kanallar", BBC NEWS
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1 tvg-id="eurokino"tvg-logo="https://www.cableman.ru/sites/default/files/evrokino.png" group-title="Rus kanalları",Еврокино
+https://s.tivix.co/ggogKfKWPRiUGxzlqo3xYQ/126/1763590848/index.m3u8
+
+#EXTINF:-1 tvg-id="sanson tv"tvg-logo="https://iptvx.one/picons/shanson-tv.png" group-title="Rus kanalları",Шансон ТВ
+https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rbk"tvg-logo="https://iptvx.one/picons/rbk.png" group-title="Rus kanalları",РБК (HD)
+http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+
+#EXTINF:-1 tvg-id="Кинокомедия"tvg-logo="https://gpm-kit.ru/thumbs/510x725c/_visual/projects/kinokomediya/logo-11.svg" group-title="Rus kanalları",Кинокомедия
+https://s.tivix.co/efHd12kFKsQwMb_wEjh_oQ/129/1763598063/index.m3u8
+
+#EXTINF:-1 tvg-id="fenerbahce"tvg-logo="https://www.pngfind.com/pngs/m/334-3346844_fenerbahce-logo-fenerbahe-hd-png-download.png" group-title="Türk kanalları",FENERBAHÇE TV
+https://fbtv.fenerbahce.org/fenerbahcetv.stream_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="globalnews"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Global_News_%282022%29.svg" group-title="Xarici kanallar",Global news(Kanada)
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
+
+#EXTINF:-1 tvg-id="Ayaz tv"tvg-logo="https://i.postimg.cc/pXQ8b7b4/icon.png" group-title="Azərbaycan kanalları",Ayaz Tv
+https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_1500k.m3u8
+
+#EXTINF:-1 tvg-id="discovery"tvg-logo="https://i.imgur.com/5IxIFJ0.png" group-title="Xarici kanallar",Discovery Channel
+https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
+
+#EXTINF:-1 tvg-id="nika"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtBkJoIys3MuIAyYRANNWvBAbwJhB4dLNu9YW6p1tiF_rpDdlFrxoKa08&s=10" group-title="Rus kanalları",Ника тв 
+http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="nika"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtBkJoIys3MuIAyYRANNWvBAbwJhB4dLNu9YW6p1tiF_rpDdlFrxoKa08&s=10" group-title="Türk kanalları",BEİN ALTERNATİV
+https://dga1op10s1u3lep.7d9c05a7181039.click/live/selcukobs1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TRT SPOR YİLDİZ"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg" group-title="Türk idman",TRT SPOR YILDIZ
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=260094&extension=ts&play_token=q9MhTfhhLr
+
+#EXTINF:-1 tvg-id="TRT SPOR YİLDİZ"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg" group-title="Türk kanalları",TRT 3 SPOR
+https://node1-az-baku-delta.streamy.group/stream/5pfgxirw74q3netzz4tyj64v5tzfkfxn3f9xgx3n8dpuezqutzwcfg27rkw8rdmju24pm6ue3u8p3xwn7qxx4zdfqbbkc2d9e6wc6u2cggj8t7yuhh6ywpafyq66vrzwte59up87r6xxt7wc5ez48ibvv7jnkbv7jgz6vici7e======.m3u8
+
+#EXTINF:-1 tvg-id="Euronews"tvg-logo="https://images.seeklogo.com/logo-png/47/2/euronews-logo-png_seeklogo-470736.png" group-title="Rus kanalları",EURONEWS (RU)
+https://node1-az-baku-delta.streamy.group/stream/aik4huvyr49qb7cz3vnm3eypinxk2z6m3myrf8xfd4xdg3pdem4zhbbett3fx7hqtsqsyb7ukrtr2qrvqxpf93vs4hgdgh4wa9jpmhwfp97z7va5pspv5yaiwny76v3jd7mtsd3r9b4t5acdr8ippdanfv9437gctktb4nufb7setq3t.m3u8
+
+#EXTINF:-1 tvg-id="cinema"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0QnBoE9CmTTSWCFZtbB6Hx3CdtGG6rOaWsOU6AebGNw&s=10" group-title="Rus kanalları",CİNEMA TV
+http://catchup.videoline.ru/cinema/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cinema"tvg-logo="https://images.seeklogo.com/logo-png/48/2/tabii-logo-png_seeklogo-481975.png" group-title="Türk kanalları",Tabii spor 2
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/454316
+
+#EXTINF:-1 tvg-id="cinema"tvg-logo="https://smotret-tv.live/images/black-kanal.png" group-title="Rus kanalları",.BLACK
+http://195.191.208.11:8087/udp/238.9.64.235:1234
+
+#EXTINF:-1 tvg-id="2x2.ru"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/2x2_TV_Logo.svg" group-title="Rus kanalları",2x2
+http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/159748.m3u8
+
+#EXTINF:-1 tvg-id="2x2"tvg-logo="https://ntvplus.tv/files/image/88/52/29/06h.png" group-title="Rus kanalları",03 Матч!
+http://178.212.71.253:8000/play/3/index.m3u8
+
+#EXTINF:-1 tvg-id="tabii"tvg-logo="https://images.seeklogo.com/logo-png/48/2/tabii-logo-png_seeklogo-481975.png" group-title="Türk kanalları PRO",Tabii spor 1
+http://sunxtv.com:8080/live/SPLxzRSeUY/GSwFKzfDwW/342988.ts
+
+#EXTINF:-1 tvg-id="tabii"tvg-logo="https://images.seeklogo.com/logo-png/48/2/tabii-logo-png_seeklogo-481975.png" group-title="Türk kanalları",Tabii spor 
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/454312
+
+#EXTINF:-1 tvg-id="tabii3"tvg-logo="https://images.seeklogo.com/logo-png/48/2/tabii-logo-png_seeklogo-481975.png" group-title="Türk kanalları PRO",Tabii spor 3
+http://1.sunxovhvps.xyz:8080/live/eJVDnp8Jyp/6hvKJFYe8p/342991.m3u8?token=S0ENUhFZRw8RBFUECgRQVVFXC1ILXV1UX1sFDlMHVgBTAV1WVAYABAJDTxJLRBQHAAlnWVwaXwNSUA4OBh8XTEMGF2wLVUcPEVBUAwkJXlpDSBpEUVUAElxSGxVHWlEbCkFXC1oGUAURTUFVQEQDEA8FVG9cXRNZBQcVDVlGWVUcQQpdPVUAWFIPBxICElZATUZRQ0gaXxIkA1xCF2dQVVUTDVwMVEV2XAwORVZZBQMVDVdeGHQpc0ROFVVeR0dYRAZHCUACUQUHQ08SW18TDBUWQRICGiRqRE4VUk9HUFdDCgpdQAtHWAAUWxIUEg8RPhZdQ0xKAFELB0UVDREFGxxBCFIabgZaXQ8GU0xZCQwSRgISCRpJEgsNWV5DXEdmQAoBEVgTVgUGWVsDChIb
+
+#EXTINF:-1 tvg-id="tabii tv"tvg-logo="https://images.seeklogo.com/logo-png/48/2/tabii-logo-png_seeklogo-481975.png" group-title="Türk kanalları PRO",Tabii Tv
+http://sunxtv.com:80/live/SPLxzRSeUY/GSwFKzfDwW/342386.ts
+
+#EXTINF:-1 tvg-id="Tivibunspor"tvg-logo="https://images.seeklogo.com/logo-png/48/2/tabii-logo-png_seeklogo-481975.png" group-title="Türk kanalları PRO",Tivibu spor
+http://sunxtv.com:80/live/SPLxzRSeUY/GSwFKzfDwW/342396.ts
+
+#EXTINF:-1 tvg-id="Tivibunspor"tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Rus kanalları",Rasiya 1(HD)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="Tivibunspor"tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Rus kanalları",Testsen
+https://vavoo.to/play/2546260324/index.m3u8
+
+#EXTINF:-1 tvg-id="Tivibunspor"tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Rus kanalları",Test yildiz
+https://trt.daioncdn.net/trtspor-yildiz/master_360p.m3u8?=&sid=7zdxyxv9zdfg&app=1ad207de-9fa1-4a55-a070-8cb9da3cf420&ce=2
+
+#EXTINF:-1 tvg-id="Bein haber"tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Türk kanalları",beIN Sports Haber HD TR
+http://b53f0300.kazaktelekom.com/iptv/P6AFYASUFXQF7MFC4S3K6QE5/19064/index.m3u8
+
+#EXTINF:-1 tvg-id="trt spor"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TRT_Spor_logo_%282022%29.svg/1024px-TRT_Spor_logo_%282022%29.svg.png" group-title="Türk kanalları",TRT Spor HD TR
+http://b53f0300.kazaktelekom.com/iptv/P6AFYASUFXQF7MFC4S3K6QE5/19072/index.m3u8
+
+#EXTINF:-1 tvg-id="trt spor"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TRT_Spor_logo_%282022%29.svg/1024px-TRT_Spor_logo_%282022%29.svg.png" group-title="Türk kanalları",BEİN SPORTS 3
+http://31.59.186.86/live/play/TTR1d1I0SnNiZzc1Q0FPSkxwQXdscjBQbnZBWXlUaFRjZlFQTTRQQVR5dkFZTTNiT2dzTmlMckxlWHFWUTNmbVlLQ0tLSnVUL2dTTjFyMFFkb3JpSi9Fc2pSOEdaZXNVbzFla3lCRmRlbEwrdmhpaGJaUSt0cjVySGFEU3JyelhWcnNBdXNjQTIvM3MyZVF6eGJwbzh2YmdWZXphQWpmaWdqcnJQUS9MbXdRPQ.m3u8
+
+#EXTINF:-1 tvg-id="trt spor"tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/kanald.png" group-title="Türk Əsas kanallar",Kanal D HD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/192068
+
+#EXTINF:-1 tvg-id="trt spor"tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17936160.png" group-title="Türk idman",TRT SPOR
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=260093&extension=ts&play_token=qlcG7nGHH4
+
+#EXTINF:-1 tvg-id="trt spor"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1280px-Tabii_logo.svg.png" group-title="Tabii platforması",Tabii spor
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/454312
+
+#EXTINF:-1 tvg-id="tabii"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1280px-Tabii_logo.svg.png" group-title="Tabii platforması",Tabii spor 1
+http://front-main.eagle-4k.me:80/226260263679518/u5e5768bu8/1121579
+
+#EXTINF:-1 tvg-id="tabii"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1280px-Tabii_logo.svg.png" group-title="Tabii platforması",Tabii spor 2
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=1161541&extension=ts&play_token=9WdQNrUFta
+
+#EXTINF:-1 tvg-id="tabii"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1280px-Tabii_logo.svg.png" group-title="Azərbaycan kanalları",HABER GLOBAL HD
+https://str.yodacdn.net/haberglobal/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="tabii"tvg-logo="https://viphd.az/uploads/others/VIP%20HD%20SUNUM%202025-9%20(2)-i678cb8fad8426.png" group-title="Azərbaycan kanalları",VİP TV HD
+https://str.yodacdn.net/vip/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="show plus"tvg-logo="https://yoda.az/logos/showplus.png" group-title="Azərbaycan kanalları",SHOW PLUS TV
+https://rtmp.showplus.tv/hls/myshow.m3u8
+
+#EXTINF:-1 tvg-id="tv8,5"tvg-logo="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801839204.png" group-title="Türk kanalları",TV 8,5
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
+
+#EXTINF:-1 tvg-id="tv8"tvg-logo="https://viphd.az/uploads/others/VIP%20HD%20SUNUM%202025-9%20(2)-i678cb8fad8426.png" group-title="Türk kanalları",TV 8 HD
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
+
+#EXTINF:-1 tvg-id="nat geo"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1200px-National-Geographic-Logo.svg.png" group-title="Türk Belgesel",National Geographic HD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6286
+
+#EXTINF:-1 tvg-id="nat geo"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1200px-National-Geographic-Logo.svg.png" group-title="Türk Kanallari",DMAX HD
+https://www.canli.co/hls/dmax/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="setanta sports"tvg-logo="https://lo1.in/ukr/se.png" group-title="UKRAYNA KANALLARI",ukrayna| SETANTA SPORTS 1
+http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/195780.m3u8
+
+#EXTINF:-1 tvg-id="setanta sports"tvg-logo="https://lo1.in/ukr/set.png" group-title="UKRAYNA KANALLARI",ukrayna| SETANTA SPORTS 2
+http://line.extraott-iptv.com:80/live/PT3K33AM/759NVNBQ/195781.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="|TR| Tivibu Spor 1 FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/tivibu_spor_2.png" group-title="Tivibu Platforması", |TR| Tivibu Spor 1 FHD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6102
+
+#EXTINF:-1 tvg-id="|TR| Tivibu Spor 2 FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/tivibu_spor_3.png" group-title="Tivibu Platforması", |TR| Tivibu Spor 2 FHD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6103
+
+#EXTINF:-1 tvg-id="|TR| Tivibu Spor 4 FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/tivibu_spor.png" group-title="Tivibu Platforması", |TR| Tivibu Spor 4 FHD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/115600
+
+#EXTINF:-1 tvg-id="|TR| Tivibu Spor 3 FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/tivibu_spor_4.png" group-title="Tivibu Platforması", |TR| Tivibu Spor 3 FHD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/113254
+
+#EXTINF:-1 tvg-id="|TR| Tivibu Spor FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/tivibu_spor.png" group-title="Tivibu Platforması", |TR| Tivibu Spor FHD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6101
+
+#EXTM3U
+#EXTINF:-1 tvg-id="|TR| Animaux HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/animaux.png" group-title="Türk Belgesel", |TR| Animaux HD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6297
+
+#EXTINF:-1 tvg-id="EU: Pluto TV Natureza (720p)" tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png" group-title="Türk Belgesel", EU: Pluto TV Natureza (720p)
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/110178
+
+#EXTINF:-1 tvg-id="24TV.tr" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bbc_earth.png" group-title="Türk Belgesel", |TR| Bbc Earth HD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6294
+
+#EXTINF:-1 tvg-id="24TV.tr" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_gurne.png" group-title="Türk Belgesel", |TR| beIN Gurme HD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6302
+
+#EXTINF:-1 tvg-id="24TV.tr" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/beiniz.png" group-title="Türk Belgesel", |TR| Bein IZ HD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/105919
+
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/da_vici_learning.png" group-title="Türk Belgesel", |TR| Da Vinci HD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6293
+
+#EXTINF:-1 tvg-id="|TR| Define TV HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/definetv.png" group-title="Türk Belgesel", |TR| Define TV HD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/47809
+
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/24kitchen.png" group-title="Türk Belgesel", |TR| 24 Kitchen TV HD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/20508
+
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/discovery_channel.png" group-title="Türk Belgesel", |TR| Discovery Channel HD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6289
+
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/discovery_idx.png" group-title="Türk Belgesel", |TR| Discovery IDX HD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6290
+
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/DocuBox_HD_logo.png" group-title="Türk Belgesel", |TR| Docubox HD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/35998
+
+#EXTINF:-1 tvg-id="|TR| Dmax TV HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/dmax.png" group-title="Türk Belgesel", |TR| Dmax TV HD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/535985
+
+#EXTINF:-1 tvg-id="|TR| Doğadan TV FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxdogadan.png" group-title="Türk Belgesel", |TR| Doğadan TV FHD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/114704
+
+#EXTINF:-1 tvg-id="|TR| Habitat TV HD" tvg-logo="https://media-cdn.t24.com.tr/media/library/2021/01/1610820453251-screenshot-5.png" group-title="Türk Belgesel", |TR| Habitat TV HD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/103303
+
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/history_channel.png" group-title="Türk Belgesel", |TR| History HD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/12822
+
+#EXTINF:-1 tvg-id="|TR| Hazine TV HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/relaxhazinetv.png" group-title="Türk Belgesel", |TR| Hazine TV HD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/451019
+
+#EXTINF:-1 tvg-id="|TR| Life After TV HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxnational.png" group-title="Türk Belgesel", |TR| Life After TV HD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/96755
+
+#EXTINF:-1 tvg-id="|TR| Love Nature HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/love_nature.png" group-title="Türk Belgesel", |TR| Love Nature HD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/22098
+
+#EXTINF:-1 tvg-id="|TR| Love TV HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tvlogo/maxlovetv.png" group-title="Türk Belgesel", |TR| Love TV HD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/192797
+
+#EXTINF:-1 tvg-id="|TR| MaximTV Belgesel TV HD" tvg-logo="https://apkx.xyz/relaxbelgeseltv.png" group-title="Türk Belgesel", |TR| MaximTV Belgesel TV HD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/451573
+
+#EXTINF:-1 tvg-id="|TR| MaximTV Nature TV HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxnature.png" group-title="Türk Belgesel", |TR| MaximTV Nature TV HD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/113484
+
+#EXTINF:-1 tvg-id="|TR| MaximTV Tadilat TV HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tvlogo/mtvLive.png" group-title="Türk Belgesel", |TR| MaximTV Tadilat TV HD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/47476
+
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/national_geo.png" group-title="Türk Belgesel", |TR| National Geographic HD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6286
+
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/national_geo_wild.png" group-title="Türk Belgesel", |TR| National Geographic Wild HD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6287
+
+#EXTINF:-1 tvg-id="|TR| Outdoor HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/Outdoor.png" group-title="Türk Belgesel", |TR| Outdoor HD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/35997
+
+#EXTINF:-1 tvg-id="|TR| RTG International HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tvlogo/rtginternational.png" group-title="Türk Belgesel", |TR| RTG International HD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/23924
+
+#EXTINF:-1 tvg-id="|TR| Sea Nat TV HD" tvg-logo="noimage.png" group-title="Groups", |TR| Sea Nat TV HD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/96756
+
+#EXTINF:-1 tvg-id="|TR| Tekno Belgesel TV HD" tvg-logo="https://w7.pngwing.com/pngs/162/242/png-transparent-documentary-film-music-real-estate-property-manager-logo-distracted-driving-logo-signage-film.png" group-title="Türk Belgesel", |TR| Tekno Belgesel TV HD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/97247
+
+#EXTINF:-1 tvg-id="|TR| TGRT Belgesel HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/tgrt_belgesel.png" group-title="Türk Belgesel", |TR| TGRT Belgesel HD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6284
+
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/trt_belgesel.png" group-title="Türk Belgesel", |TR| TRT Belgesel HD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/13286
+
+#EXTINF:-1 tvg-id="|TR| TRT TV HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tvlogo/trt_belgesel.png" group-title="Türk Belgesel", |TR| TRT TV HD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/96754
+
+#EXTINF:-1 tvg-id="|TR| Viasat Explore HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tvlogo/viasat_explore.png" group-title="Türk Belgesel", |TR| Viasat Explore HD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/113283
+
+#EXTINF:-1 tvg-id="|TR| Viasat History HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tvlogo/Viasat_History-2014.png" group-title="Türk Belgesel", |TR| Viasat History HD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/110174
+
+#EXTM3U
+#EXTINF:-1 tvg-id="|TR| beIN Box Office 1 FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_box_office.png" group-title="BEin kanalları Film", |TR| beIN Box Office 1 FHD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6195
+
+#EXTINF:-1 tvg-id="|TR| beIN Box Office 2 FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_box_office_2.png" group-title="BEin kanalları Film", |TR| beIN Box Office 2 FHD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6196
+
+#EXTINF:-1 tvg-id="|TR| beIN Box Office 3 FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_box_office_3.png" group-title="BEin kanalları Film", |TR| beIN Box Office 3 FHD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6197
+
+#EXTINF:-1 tvg-id="|TR| beIN Movies Premier 1 FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_movies_premiere_1.png" group-title="BEin kanalları Film", |TR| beIN Movies Premier 1 FHD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6200
+
+#EXTINF:-1 tvg-id="|TR| beIN Movies Premier 2 FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_movies_premire_2.png" group-title="BEin kanalları Film", |TR| beIN Movies Premier 2 FHD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6201
+
+#EXTINF:-1 tvg-id="|TR| beIN Movies Turk FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_movies_turk.png" group-title="BEin kanalları Film", |TR| beIN Movies Turk FHD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6202
+
+#EXTINF:-1 tvg-id="|TR| beIN Series Comedy FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_series_comedy.png" group-title="BEin kanalları Film", |TR| beIN Series Comedy FHD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6205
+
+#EXTINF:-1 tvg-id="|TR| beIN Series SCI FI FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_series_sc-fi.png" group-title="BEin kanalları Film", |TR| beIN Series SCI FI FHD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/457101
+
+#EXTINF:-1 tvg-id="|TR| beIN Series Drama FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_series_drama.png" group-title="BEin kanalları Film", |TR| beIN Series Drama FHD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/457102
+
+#EXTINF:-1 tvg-id="|TR| beIN Series Vice FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_series_vice.png" group-title="BEin kanalları Film", |TR| beIN Series Vice FHD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/125800
+
+#EXTINF:-1 tvg-id="|TR| beIN Movies Action 2 FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_movies_action_2.png" group-title="BEin kanalları Film", |TR| beIN Movies Action 2 FHD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6199
+
+#EXTINF:-1 tvg-id="|TR| beIN Movies Family FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_movies_family.png" group-title="BEin kanalları Film", |TR| beIN Movies Family FHD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6204
+
+#EXTINF:-1 tvg-id="|TR| beIN Movies Action 1 FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_movies_action.png" group-title="BEin kanalları Film", |TR| beIN Movies Action 1 FHD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6198
+
+#EXTM3U
+#EXTINF:-1 tvg-id="|TR| beIN Sports 1 (TTNET ÖZEL)" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="Bein idman kanalları", |TR| beIN Sports 1 (TTNET ÖZEL)
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/334642
+
+#EXTINF:-1 tvg-id="|TR| beIN Sports 1 4K [Feed]" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="Bein idman kanalları", |TR| beIN Sports 1 4K [Feed]
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/35650
+
+#EXTINF:-1 tvg-id="|TR| beIN Sports 1 8K [Feed]" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="Bein idman kanalları", |TR| beIN Sports 1 8K [Feed]
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/191152
+
+#EXTINF:-1 tvg-id="|TR| beIN Sports 1 720p" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="Bein idman kanalları", |TR| beIN Sports 1 720p
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/351541
+
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_2.png" group-title="Bein idman kanalları", |TR| beIN Sports 2 HD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/35730
+
+#EXTINF:-1 tvg-id="|TR| beIN Sports 2 SD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_2.png" group-title="Bein idman kanalları", |TR| beIN Sports 2 SD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/196216
+
+#EXTINF:-1 tvg-id="|TR| beIN Sports 2 UHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_2.png" group-title="Bein idman kanalları", |TR| beIN Sports 2 UHD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/195811
+
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_3.png" group-title="Bein idman kanalları", |TR| beIN Sports 3 HD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6097
+
+#EXTINF:-1 tvg-id="|TR| beIN Sports 3 UHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_3.png" group-title="Bein idman kanalları", |TR| beIN Sports 3 UHD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/195812
+
+#EXTINF:-1 tvg-id="|TR| beIN Sports 3 SD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_3.png" group-title="Bein idman kanalları", |TR| beIN Sports 3 SD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/196217
+
+#EXTINF:-1 tvg-id="|TR| beIN Sports 4 SD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_4.png" group-title="Bein idman kanalları", |TR| beIN Sports 4 SD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/196218
+
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_4.png" group-title="Bein idman kanalları", |TR| beIN Sports 4 HD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6098
+
+#EXTINF:-1 tvg-id="|TR| beIN Sports 4 UHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_4.png" group-title="Bein idman kanalları", |TR| beIN Sports 4 UHD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/195813
+
+#EXTINF:-1 tvg-id="|TR| beIN Sports 5 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/beinsport-5.png" group-title="Bein idman kanalları", |TR| beIN Sports 5 HD
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/125936
+
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_max_2.png" group-title="Bein idman kanalları", |TR| beIN Sports Max 2
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6100
+
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_max_1.png" group-title="Bein idman kanalları", |TR| beIN Sports Max 1
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6099
+
+#EXTINF:-1 tvg-id="biznestv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScepgUwNbT4TA6kyKZggQjQ5rpr3hOs78p2juP3OX-pQ&s=10" group-title="Azərbaycan kanalları", BİZNES TV
+https://str.yodacdn.net/biznestv/tracks-v1a1/mono.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/babytv.png" group-title="Türk uşaq kanalları", TR - BABY TV
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259953&extension=ts&play_token=wkiS35vyPf
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/boomeranghd.png" group-title="Türk uşaq kanalları", TR - BOOMERANG UHD
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259955&extension=ts&play_token=fxhmi3jijF
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/babytv.png" group-title="Türk uşaq kanalları", TR - BABY TV
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259954&extension=ts&play_token=3kmobrZbND
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/cartoonnetwork.png" group-title="Türk uşaq kanalları", TR - CARTOON NETWORK
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259956&extension=ts&play_token=PbsV48gMgD
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/cizgi.gif" group-title="Türk uşaq kanalları", TR - CAN CİZGİ TV
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259976&extension=ts&play_token=OBf8J5mVIy
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/cbeebies.png" group-title="Türk uşaq kanalları", TR - CBEEBIES
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259948&extension=ts&play_token=ZAHz9xakfT
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/cartoonnetworkhd.png" group-title="Türk uşaq kanalları", TR - CARTOON NETWORK UHD
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259957&extension=ts&play_token=U42gn5Ee6k
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/disneychannel.png" group-title="Türk uşaq kanalları", TR - DISNEY CHANNEL
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259959&extension=ts&play_token=Trh5TB54S2
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/smartcocuk.jpg" group-title="Türk uşaq kanalları", TR - COCUK SMART UHD
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259949&extension=ts&play_token=29sGZbLeJY
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/disneyjnrhd.png" group-title="Türk uşaq kanalları", TR - DISNEY JR UHD
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259960&extension=ts&play_token=tpiUzrewVk
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/disneychannelhd.png" group-title="Türk uşaq kanalları", TR - DISNEY CHANNEL UHD
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259958&extension=ts&play_token=Ss6hZpMU1y
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/kukuli.png" group-title="Türk uşaq kanalları", TR - KUKULI TV
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259950&extension=ts&play_token=hdvjFghCAO
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/disneyjunior.png" group-title="Türk uşaq kanalları", TR - DISNEY JUNIOR
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259961&extension=ts&play_token=z1zNkv3tyB
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/minikacocuk.jpg" group-title="Türk uşaq kanalları", TR - MİNİKA ÇOCUK UHD
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259968&extension=ts&play_token=7SAnIprcFK
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/minikago.jpg" group-title="Türk uşaq kanalları", TR - MİNİKA GO UHD
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259970&extension=ts&play_token=CkyrWEDPVP
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/minikago.jpg" group-title="Türk uşaq kanalları", TR - MINIKA GO TV
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259971&extension=ts&play_token=112PMfBH9E
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/minikacocuk.jpg" group-title="Türk uşaq kanalları", TR - MINIKA COCUK
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259969&extension=ts&play_token=Cc6zPP4GiW
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/nickjr.png" group-title="Türk uşaq kanalları", TR - NICK JR
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259951&extension=ts&play_token=S1b1cbuuyv
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/nickelodeon.png" group-title="Türk uşaq kanalları", TR - NİCKELODEON
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259967&extension=ts&play_token=ndqXx4slWg
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/nickelodeonturkey.png" group-title="Türk uşaq kanalları", TR - NICKELODEON TURKIYE
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259966&extension=ts&play_token=oZWZXxpNwe
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/nickjr.png" group-title="Türk uşaq kanalları", TR - NICK JR
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259965&extension=ts&play_token=n35QFQ26lm
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/pepee.jpg" group-title="Türk uşaq kanalları", TR - PEPEE TV
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259973&extension=ts&play_token=7WlbNE69B0
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/niloya.png" group-title="Türk uşaq kanalları", TR - NILOYA TV
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259972&extension=ts&play_token=JcFFN9pJSh
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/trtcocuk.png" group-title="Türk uşaq kanalları", TR - TRT COCUK UHD
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259952&extension=ts&play_token=8DuwrTG6dd
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/rafadantayfa.jpg" group-title="Türk uşaq kanalları", TR - RAFADAN TAYFA TV
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259974&extension=ts&play_token=U99cXCHvE6
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/trtcocuk.png" group-title="Türk uşaq kanalları", TR - TRT ÇOCUK UHD
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259963&extension=ts&play_token=6lcs4URecp
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/trtcocuk.png" group-title="Türk uşaq kanalları", TR - TRT ÇOCUK
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259964&extension=ts&play_token=NbZmh3zWOt
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/foxhd.png" group-title="Türk Ulusal Yeni", TR - FOX UHD
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259879&extension=ts&play_token=Wre8yU1cun
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/flashtv.jpg" group-title="Türk Ulusal Yeni", TR - FLASH TV
+http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259892&extension=ts&play_token=JOw81eKW0l
+
+#EXTINF:-1 tvg-id="|TR| Cüneyt Arkın TV" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" group-title="Türk Yeşilcam", Cüneyt Arkın TV
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/23579
+
+#EXTINF:-1 tvg-id="|TR| Ferdi Tayfur TV" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" group-title="Türk Yeşilcam", Ferdi Tayfur TV
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/24201
+
+#EXTINF:-1 tvg-id="|TR| Filiz Akın TV" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" group-title="Türk Yeşilcam", Filiz Akın TV
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/48292
+
+#EXTINF:-1 tvg-id="|TR| Hülya Koçyiğit TV" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" group-title="Türk Yeşilcam", Hülya Koçyiğit TV
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/48293
+
+#EXTINF:-1 tvg-id="|TR| Kadir Inanır TV" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" group-title="Türk Yeşilcam", Kadir Inanır TV
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/23580
+
+#EXTINF:-1 tvg-id="|TR| Kemal Sunal TV 1" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" group-title="Türk Yeşilcam", Kemal Sunal TV 1
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6325
+
+#EXTINF:-1 tvg-id="|TR| Kemal Sunal TV 2" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" group-title="Türk Yeşilcam", Kemal Sunal TV 2
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/101136
+
+#EXTINF:-1 tvg-id="|TR| Müjde Ar TV" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" group-title="Türk Yeşilcam", Müjde Ar TV
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/48401
+
+#EXTINF:-1 tvg-id="|TR| Orhan Gencebay TV" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" group-title="Türk Yeşilcam", Orhan Gencebay TV
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/48297
+
+#EXTINF:-1 tvg-id="|TR| Tarık Akan TV" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" group-title="Türk Yeşilcam", Tarık Akan TV
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/48295
+
+#EXTINF:-1 tvg-id="|TR| Türkan Şoray TV" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" group-title="Türk Yeşilcam", Türkan Şoray TV
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/48296
+
+#EXTINF:-1 tvg-id="|TR| Zeki Metin TV" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" group-title="Türk Yeşilcam", Zeki Metin TV
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6320
+
+#EXTINF:-1 tvg-id="|TR| Ibrahim Tatlıses TV" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" group-title="Groups", Ibrahim Tatlıses TV
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/6318
+
+#EXTINF:-1 tvg-id="|TR| Şener Şen TV" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" group-title="Groups",  Şener Şen TV
+http://kalitemedya45.xyz:8080/caPERNWXnC/se6CwFf4Lz/23578
+
+#EXTINF:-1 tvg-id="minikago" tvg-logo="https://images.seeklogo.com/logo-png/52/1/minika-go-logo-png_seeklogo-520663.png" group-title="Türk kanalları", MİNİKA GO
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
+
+#EXTINF:-1 tvg-id="xezer" tvg-logo="https://images.seeklogo.com/logo-png/52/1/minika-go-logo-png_seeklogo-520663.png" group-title="Azərbaycan kanalları", XƏZƏR TV 1
+https://str.yodacdn.net/xazartv/mono.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
