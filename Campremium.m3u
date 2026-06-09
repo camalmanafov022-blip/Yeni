@@ -1012,8 +1012,8 @@ http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259950
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/disneyjunior.png" group-title="Türk uşaq kanalları", TR - DISNEY JUNIOR
 http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259961&extension=ts&play_token=z1zNkv3tyB
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/minikacocuk.jpg" group-title="Türk uşaq kanalları", TR - MİNİKA ÇOCUK UHD
-http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259968&extension=ts&play_token=7SAnIprcFK
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/minikacocuk.jpg" group-title="Türk kanalları", MİNİKA ÇOCUK
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.176.90.118/picons-dino/logos/minikago.jpg" group-title="Türk uşaq kanalları", TR - MİNİKA GO UHD
 http://90309-fri.ott-cdn.me:80/play/live.php?mac=00:1A:79:9D:52:1C&stream=259970&extension=ts&play_token=CkyrWEDPVP
