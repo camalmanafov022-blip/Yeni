@@ -21,7 +21,7 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 https://str.yodacdn.net/apatv/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/snBMMeH.png" group-title="Azərbaycan kanalları", Az TV HD
-https://str.yodacdn.net/azertv/tracks-v1a1/mono.m3u8
+https://operativmm.az/tvs/az/stream9/stream.m3u8
 
 #EXTINF:-1 tvg-id="BakuTV.az" tvg-logo="https://i.imgur.com/r4FzxSg.png" group-title="Azərbaycan kanalları", Baku TV HD
 https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
