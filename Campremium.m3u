@@ -27,7 +27,7 @@ https://operativmm.az/tvs/az/stream9/stream.m3u8
 https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/az/0/04/CBC_Sport_TV_loqo.png" group-title="Azərbaycan kanalları", CBC SPORT HD
-https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
+https://operativmm.az/tvs/cbcsport/stream3/stream.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cbctv.az/assets/site/img/cbclogo.png" group-title="Azərbaycan kanalları", CBC TV
 https://str.yodacdn.net/cbc/tracks-v1a1/mono.ts.m3u8
