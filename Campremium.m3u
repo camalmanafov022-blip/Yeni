@@ -179,7 +179,7 @@ https://space.tvstream.az/hls/stream8/stream.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Azərbaycan kanalları", TMB Azerbaycan
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://flagcdn.com/w320/az.png" group-title="Azərbaycan kanalları", Xazar TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_llv5TgIPuWJqgNdaP92-agHiU-N98ND5uo_-w-oOzPPg=s900-c-k-c0x00ffffff-no-rj" group-title="Azərbaycan kanalları", Xazar TV
 https://operativmm.az/tvs/xezer/stream/main_stream.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Azərbaycan kanalları", Ictimai TV HD
