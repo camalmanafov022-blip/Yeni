@@ -746,7 +746,7 @@ https://vsd233.okcdn.ru/hls/1286158092976.m3u8
 #EXTINF:-1 tvg-id="yu" tvg-logo="https://images.seeklogo.com/logo-png/37/1/u-tv-logo-png_seeklogo-372888.png" group-title="Rus kanalları",Ю
 https://vsd233.okcdn.ru/hls/1286158092976.m3u8/sig/H1lhkLR_-x0/expires/1794760414832/srcIp/37.114.146.75/urls/176.112.172.106/clientType/0/srcAg/CHROME/mid/2961812233904/video.m3u8
 
-#EXTINF:-1 tvg-id="setanta" tvg-logo="https://images.seeklogo.com/logo-png/37/1/u-tv-logo-png_seeklogo-372888.png" group-title="Rus kanalları",Setanta Sports 1
+#EXTINF:-1 tvg-id="setanta" tvg-logo="https://tvix.live/images/setanta_sports_1.png" group-title="Rus kanalları",Setanta Sports 1
 https://stream2.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 
 
