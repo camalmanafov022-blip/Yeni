@@ -170,8 +170,8 @@ http://88.99.66.6:8080/str.yodacdn.net/mtvaz/tracks-v1a1/mono.m3u8?token=f3215d5
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ntv.az/assets/images/logo.png" group-title="Azərbaycan kanalları", Naxçıvan TV
 http://88.99.66.6:8080/str.yodacdn.net/ntv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-16642607366-1664260736
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/az/b/bb/Real_TV_loqosu.png" group-title="Azərbaycan kanalları", Real TV
-https://str.yodacdn.net/real/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://azertag.az/files/2024/1/1200x630/17104901366551033420_1200x630.jpg" group-title="Azərbaycan kanalları", Real TV
+https://operativmm.az/tvs/realtv/stream2/stream.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Space_TV_loqosu_%282021-2023%29.png/320px-Space_TV_loqosu_%282021-2023%29.png" group-title="Azərbaycan kanalları", SPACE TV
 https://operativmm.az/tvs/space/stream8/stream.m3u8
