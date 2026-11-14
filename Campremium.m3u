@@ -18,7 +18,7 @@ https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
 #EXTINF:-1 tvg-id="APATv.az" tvg-logo="https://i.imgur.com/2CSW4V4.png" group-title="Azərbaycan kanalları", APA TV HD
-http://stream.apa.tv/apastream/audio2_stream.m3u8
+http://stream.apa.tv/apastream/video1_stream.m3u8
 
 #EXTINF:-1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/snBMMeH.png" group-title="Azərbaycan kanalları", Az TV HD
 https://operativmm.az/tvs/az/stream9/stream.m3u8
