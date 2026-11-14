@@ -749,7 +749,8 @@ https://vsd233.okcdn.ru/hls/1286158092976.m3u8/sig/H1lhkLR_-x0/expires/179476041
 #EXTINF:-1 tvg-id="setanta" tvg-logo="https://tvix.live/images/setanta_sports_1.png" group-title="Rus kanalları",Setanta Sports 1
 https://stream2.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 
-
+#EXTINF:-1 tvg-id="setanta" tvg-logo="https://tvix.live/images/setanta_sports_1.png" group-title="Türk kanalları",TABİİ SPOR TX
+https://rfw2clwss2go9glm.medya.trt.com.tr/out/v1/trt-tabiispor/tabiispor/trt-tabiispor-hls-drm/trt-tabiispor.m3u8
 
 
 
