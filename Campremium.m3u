@@ -758,7 +758,8 @@ http://pro8kiptv.xyz:2086/live/fF6ht23S/ayPaCZJGDKe/106307.m3u8
 #EXTINF:-1 tvg-id="setanta" tvg-logo="https://yt3.googleusercontent.com/fnTAQELerKbTGtUKO0Iu0irkcVP1z0z-kKG-BdZetLZPK_G9yf8z8PPhIPDBfhmWUQe5Q59BqA=s900-c-k-c0x00ffffff-no-rj" group-title="Türk kanalları",Tabii spor
 http://pro8kiptv.xyz:2086/live/fF6ht23S/ayPaCZJGDKe/222496.m3u8
 
-
+#EXTINF:-1 tvg-id="setanta" tvg-logo="" group-title="Türk kanalları",TRT SPOR YILDLZ
+http://pro8kiptv.xyz:2086/live/170050.m3u8
 
 
 
