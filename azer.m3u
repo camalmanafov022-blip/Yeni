@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10609.jpg?13700" tvg-chno="51168" group-title="AZƏRBAYCAN",XEZER TV
+#EXTINF:-1 tvg-logo="https://tvstream.az/assets/xezertv.jpg" tvg-chno="51168" group-title="AZƏRBAYCAN",XEZER TV
 http://cf.8kiptv.space/live/eadcf14f7f8e/dcaa4fc8d3/369602.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11388.png?10733" tvg-chno="51169" group-title="AZƏRBAYCAN",SPACE TV
 http://cf.8kiptv.space/live/eadcf14f7f8e/dcaa4fc8d3/369601.m3u8
