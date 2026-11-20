@@ -18,7 +18,7 @@ http://cf.8kiptv.space/live/eadcf14f7f8e/dcaa4fc8d3/369595.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2329.png?95108" tvg-chno="51176" group-title="AZƏRBAYCAN",AZ TV
 http://cf.8kiptv.space/live/eadcf14f7f8e/dcaa4fc8d3/369594.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11927.png?20014" tvg-chno="51177" group-title="AZƏRBAYCAN",ATV AZ
-http://cf.8kiptv.space/live/eadcf14f7f8e/dcaa4fc8d3/369593.m3u8
+https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11923.png?9825" tvg-chno="51178" group-title="AZƏRBAYCAN",ARB TV
 http://cf.8kiptv.space/live/eadcf14f7f8e/dcaa4fc8d3/369592.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11923.png?9825" tvg-chno="51179" group-title="AZƏRBAYCAN",ARB 24
